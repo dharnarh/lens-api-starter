@@ -5,7 +5,7 @@ Dive into the tutorial here: https://www.30daysofweb3.xyz/en/curriculum/9-wrappi
 ## Getting Started
 
 First, fork and clone this starter repo. You can find similar instructions on forking and cloning a repo here: https://www.30daysofweb3.xyz/en/curriculum/3-writing-your-smart-contract/1-dev-setup
-
+Lalalalaalalalalalal
 After you've cloned the repo, open this project in your IDE and then install all dependencies by running this command in your terminal:
 
 ```bash
